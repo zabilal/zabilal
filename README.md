@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 <br>    😄 Am Zakariya Raji<br>    🔭 I’m currently building Backend Solutions for businesses.<br>    🌱 I’m currently learning more about BlockChain Neural Networks.<br>    👯 I’m looking to learn and collaborate on Youtube.<br>    🤔 I’m looking for help with VelocityX documentation.<br>    💬 Ask me about Go, Java, Javascript, Python, Flutter, or any tech-related stuff.<br>    📫 How to reach me: Check the social links below.<br>    ⚡ Fun fact: Am a problem solver, and where there is none I create one.<br>
 
